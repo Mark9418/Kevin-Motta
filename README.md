@@ -1,1 +1,1 @@
-Esercizi Modulo Excel del corso Data Analyst
+Esercizi del corso Data Analyst.
