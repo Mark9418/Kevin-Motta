@@ -1,0 +1,16 @@
+ESERCIZIO ADDIZIONALE PYTHON
+Guess the number ❓ 
+Scrivete un algoritmo che:
+inventi un numero random da 1 a 100 e lo salvi in una variabile
+chieda un input all'utente affinché indovini il numero
+se il numero inserito dall'utente è troppo alto, printi a schermo "è troppo alto!", e chieda un altro numero
+se il numero inserito invece è troppo basso, printi a schermo "è troppo basso!" e chieda un altro numero
+se il numero è uguale, printi "hai vinto!" e termini.
+
+Di cosa potreste avere bisogno? 🛠️ 
+Tenendo conto che ci sono quasi sempre più soluzioni ad  un singolo problema (almeno, in informatica), per scrivere questo programma potreste avere bisogno di:
+una libreria esterna per gestire il numero random, un while loop, type casting, operatori condizionali, operatori di confronto.
+
+Fibonacci 🐚 
+Scrivete un algoritmo che calcoli i primi N numeri della sequenza di Fibonacci.
+Meno indizi qui, vi dico che avrete probabilmente bisogno di un input, di un loop, di liste, indexing e append e operatori matematici.
